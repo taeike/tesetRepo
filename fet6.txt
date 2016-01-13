@@ -1,3 +1,4 @@
 rebaseTest1
 
 fet6.txt first commit
+rebaseTest2
