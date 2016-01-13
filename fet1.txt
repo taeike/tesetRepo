@@ -8,3 +8,4 @@ fet10 first commit
 fet10 second commit
 
 rebaseTest1
+rebaseTest2
